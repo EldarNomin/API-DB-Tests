@@ -1,5 +1,4 @@
-# API-DB-Tests
----
+
 Для сборки проекта, необходимо заполнить пропущеные поля в json файле src/main/resources/authorizationData.json:
 
 ---
