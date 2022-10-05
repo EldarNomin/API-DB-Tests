@@ -1,15 +1,0 @@
-
-q
-java:S2095H"OUse try-with-resources or close this "InputStreamReader" in a "finally" clause.(Á‹êüùÿÿÿÿ8Î‡ó»®0
-i
-java:S2095I"LUse try-with-resources or close this "BufferedReader" in a "finally" clause.(Ú†ÖÓ8Í‡ó»®0
-Y
-java:S2583"CChange this condition so that it does not always evaluate to "true"(¤òª£
-œ
-java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ºªŸáûÿÿÿÿ
-g
-java:S3457$"Q%n should be used in place of \n to produce the platform-specific line separator.(Š­œö
-[
-java:S4719H"9Replace charset name argument with StandardCharsets.UTF_8(Á‹êüùÿÿÿÿ8ô‡ó»®0
-L
-java:S2093E"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ8ü‡ó»®0
