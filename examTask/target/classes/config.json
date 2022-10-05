@@ -1,7 +1,0 @@
-{
-  "baseUriApi": "http://localhost:8080/api/",
-  "baseUriWeb": "http://%s:%s@localhost:8080/web/projects",
-  "baseUriDB": "jdbc:mysql://localhost:3306/union_reporting",
-  "screenshotsPath": "target/screenshots/screenshot.png",
-  "logPath": "src/main/resources/log.txt"
-}
