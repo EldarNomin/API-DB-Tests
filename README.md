@@ -1,5 +1,5 @@
 
-Для сборки проекта, необходимо заполнить пропущеные поля в json файле src/main/resources/authorizationData.json:
+Для сборки проекта, необходимо заполнить пропущеные поля в json файле src/main/resources/authorizationData.json и ввести комманду "mvn test clean"
 
 ---
 "apiLogin": "Логин от web приложения"
