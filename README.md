@@ -1,5 +1,6 @@
 
 Для сборки проекта, необходимо заполнить пропущеные поля в json файле src/main/resources/authorizationData.json:
+
 ---
 "apiLogin": "Логин от web приложения"
 
